@@ -72,7 +72,7 @@ hi Type term=underline ctermfg=2 gui=bold guifg=White
 hi Visual term=reverse ctermfg=White ctermbg=White
 hi Search term=reverse ctermfg=White ctermbg=White
 hi Tag term=bold ctermfg=White guifg=White
-hi Underlined term=underline ctermfg=5 gui=underline guifg=White
+hi Underlined term=underline cterm=underline ctermfg=5 gui=underline guifg=White
 hi Todo term=standout ctermbg=White ctermfg=White guifg=White guibg=White
 hi StatusLine term=bold,reverse cterm=NONE ctermfg=White ctermbg=White
 
