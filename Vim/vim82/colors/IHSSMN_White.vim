@@ -18,7 +18,7 @@ let colors_name = "IHSSMN_White"
 hi Normal ctermfg=White ctermbg=White font=Fixedsys:h9:cDEFAULT:qPROOF guifg=White guibg=White
 hi NonText guifg=White guibg=White
 
-" Not very blackest, heh?
+" Not very whitest, heh?
 
 hi Cursor guifg=White guibg=White
 
