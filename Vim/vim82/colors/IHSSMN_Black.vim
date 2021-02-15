@@ -61,6 +61,7 @@ hi Debug guifg=White guibg=White
 
 " Pen, pencil, coloring stuff
 
+hi Title term=bold ctermfg=5 gui=bold guifg=Black
 hi Comment term=bold ctermfg=Black guifg=Black
 hi Constant term=underline ctermfg=4 guifg=Black
 hi Special term=bold ctermfg=5 guifg=Black
@@ -71,6 +72,7 @@ hi Type term=underline ctermfg=2 gui=bold guifg=Black
 hi Visual term=reverse ctermfg=Black ctermbg=Black
 hi Search term=reverse ctermfg=Black ctermbg=Black
 hi Tag term=bold ctermfg=Black guifg=Black
+hi Underlined term=underline cterm=underline ctermfg=5 gui=underline guifg=Black
 hi Todo term=standout ctermbg=Black ctermfg=Black guifg=Black guibg=Black
 hi StatusLine term=bold,reverse cterm=NONE ctermfg=Black ctermbg=Black
 
