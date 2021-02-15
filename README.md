@@ -8,6 +8,8 @@ With this colors you can actually outsmart your office partner to not looking at
 
 Just copy it to your colors folder and updated, and thats it!
 
+**Thats so many 'how to' install this colors in many os, figured yourself.**
+
 `Available in black and white color.`
 
 # Just don't tell your enemy 'How to used'
