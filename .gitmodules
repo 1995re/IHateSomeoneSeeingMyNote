@@ -1,0 +1,4 @@
+[submodule "IHateSomeoneSeeingMyNote"]
+	path = IHateSomeoneSeeingMyNote
+	url = https://github.com/1995re/IHateSomeoneSeeingMyNote.git
+	branch = master
