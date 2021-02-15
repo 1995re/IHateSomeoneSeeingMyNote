@@ -9,3 +9,6 @@ With this colors you can actually outsmart your office partner to not looking at
 Just copy it to your colors folder and updated, and thats it!
 
 `Available in black and white color.`
+
+# Just don't tell your enemy 'How to used'
+![img](IHSSMN.png)
