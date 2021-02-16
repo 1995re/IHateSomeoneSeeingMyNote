@@ -16,6 +16,7 @@ endif
 let colors_name = "IHSSMN_White"
 
 hi Normal ctermfg=White ctermbg=White font=Fixedsys:h9:cDEFAULT:qPROOF guifg=White guibg=White
+hi EndOfBuffer guifg=Black guibg=Black
 hi NonText guifg=White guibg=White
 
 " Not very whitest, heh?

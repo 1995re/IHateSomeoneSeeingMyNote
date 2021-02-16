@@ -17,7 +17,9 @@ endif
 let colors_name = "IHSSMN_Black"
 
 hi Normal ctermfg=Black ctermbg=Black font=Fixedsys:h9:cDEFAULT:qPROOF guifg=Black guibg=Black
+hi EndOfBuffer guifg=Black guibg=Black
 hi NonText guifg=Black guibg=Black
+
 
 " Not very blackest, heh?
 
