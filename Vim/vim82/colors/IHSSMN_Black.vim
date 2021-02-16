@@ -1,4 +1,5 @@
 " VIM   COLOR
+"
 " S C H E M E
 "
 " Writed: M. Syamsir Alam (syamsiralam.id@gmail.com)
@@ -54,6 +55,12 @@ hi Tag guifg=Black guibg=Black
 hi SpecialChar guifg=Black guibg=Black
 hi Delimiter guifg=Black guibg=Black
 hi SpecialComment guifg=Black guibg=Black
+
+" Tabline are
+
+hi TabLine term=bold cterm=underline ctermfg=15 ctermbg=8 gui=underline guibg=White
+hi TabLineSel term=bold cterm=bold gui=bold
+hi TabLineFill term=reverse cterm=reverse gui=reverse
 
 " A hobby of the hackery
 

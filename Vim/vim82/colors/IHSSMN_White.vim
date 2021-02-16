@@ -55,6 +55,12 @@ hi SpecialChar guifg=White guibg=White
 hi Delimiter guifg=White guibg=White
 hi SpecialComment guifg=White guibg=White
 
+" Tabline are
+
+hi TabLine term=bold cterm=underline ctermfg=15 ctermbg=8 gui=underline guibg=Black
+hi TabLineSel term=bold cterm=bold gui=bold
+hi TabLineFill term=reverse cterm=reverse gui=reverse
+
 " A hobby of the hackery
 
 hi Debug guifg=Black guibg=Black

@@ -1,6 +1,9 @@
 " Vim with all enhancements
 source $VIMRUNTIME/vimrc_example.vim
 
+" Enabled syntax highlight
+syntax on
+
 " Use the internal diff if available.
 " Otherwise use the special 'diffexpr' for Windows.
 if &diffopt !~# 'internal'
