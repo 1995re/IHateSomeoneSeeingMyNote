@@ -1,5 +1,4 @@
 " VIM   COLOR
-"
 " S C H E M E
 "
 " Writed: M. Syamsir Alam (syamsiralam.id@gmail.com)
