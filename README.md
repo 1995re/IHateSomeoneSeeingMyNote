@@ -14,3 +14,5 @@ Just copy it to your colors folder and updated, and thats it!
 
 # Just don't tell your enemy 'How to used'
 ![img](IHSSMN.png)
+
+the only power it is `:wq` or `:q` what'shoever...
